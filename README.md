@@ -35,10 +35,8 @@ Before submission, the `node_modules` directory was deleted, and the repository 
 
 
 ## Screenshots
-![WhatsApp Image 2024-06-26 at 15 15 23](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/2f5cfbe8-7edf-4d4c-aab6-e2b8bbfa909d)
+![WhatsApp Image 2024-06-26 at 17 37 26](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/905bd5db-2864-49b5-baba-0c197f23ab76)
+![WhatsApp Image 2024-06-26 at 15 15 23](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/47fa42f4-2ee1-4fe5-964e-63a7fe832e17)
+![WhatsApp Image 2024-06-26 at 15 15 22](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/974c906e-b3eb-46a4-a077-5aac86e6a3e2)
+![WhatsApp Image 2024-06-26 at 15 15 21](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/99e43160-a595-4fc4-bbc3-b17b1b40812f)
 
-![WhatsApp Image 2024-06-26 at 15 15 21](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/0e08c118-2488-4c18-a9c4-f66af590a976)
-
-![WhatsApp Image 2024-06-26 at 15 15 22](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/41b4b47e-a57d-44bd-b9b6-316bec7543f0)
-
-![WhatsApp Image 2024-06-26 at 15 15 22](https://github.com/Curlvyn/rn-assignment5-11021379/assets/170081196/890db18e-85ad-4279-befb-a73017f03ac0)
